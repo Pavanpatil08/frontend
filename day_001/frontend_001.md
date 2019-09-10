@@ -20,7 +20,6 @@ Local stoarge is the user browser storage. Session storage is cockie storage
 ```
 HTML event handling is using javascript function to make the html code action
 React event handling is the 
-
 ```
 
 ## 4. What is the purpose of the alt attribute on images?
