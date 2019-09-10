@@ -11,7 +11,7 @@ Document Object Model
 
 ## 2. What is HTML5 Web Storage? Explain localStorage and sessionStorage.
 
-``  
+``` 
 Local stoarge is the user browser storage. Session storage is cockie storage
 ```
 
